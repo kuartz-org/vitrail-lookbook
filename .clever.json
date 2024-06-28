@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_10112e11-3bc9-422c-be45-d55606f155de",
+      "org_id": "user_287f3694-ad14-4871-9a63-dbe910005d68",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_10112e11-3bc9-422c-be45-d55606f155de.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_10112e11-3bc9-422c-be45-d55606f155de.git",
+      "name": "vitrail_lookbook",
+      "alias": "vitrail_lookbook"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ class CardPreview < VitrailPreview
   end
 
   def with_title
-    render_with_template(template: "card_preview/with_title")
+    render_with_template
   end
 
   def with_description
